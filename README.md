@@ -1,2 +1,2 @@
-# Design-and-analysis-of-a-low-power-6T-SRAM-cell.
-Design and analysis of a low-power 6T SRAM cell using CMOS technology. Includes schematic creation, read/write simulations, SNM evaluation, and power optimization. Focuses on reducing leakage, improving stability, and validating performance for memory applications.
+# Adaptive Vehicle Speed Control.
+Design of an adaptive vehicle speed control system using sensors and a microcontroller. Automatically adjusts vehicle speed based on obstacle distance or road conditions, improving safety, stability, and energy efficiency.
